@@ -35,7 +35,7 @@ body {
 progress {
   border-radius: 2px;
   width: 100%;
-  height: 12px;
+  height: 30px;
   position: fixed;
   top: 0;
 }
